@@ -1,0 +1,2 @@
+# FindViewByIdIOC
+实现Xutils原理，Xutils和ButterKnife功能的，不用写findviewbyid，扩展选择性监听有无网络的IOC注解
